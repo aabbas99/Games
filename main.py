@@ -34,7 +34,7 @@ def game1():
 def game2():   
   '''
 
-This is a python game that was created using the built-in turtle module similar to the Google Snake Game (02/28/2020)
+This is a python game that was created using the built-in turtle module similar to the Google Snake Game 
 
 '''
 
