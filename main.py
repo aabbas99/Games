@@ -302,7 +302,7 @@ while True:
 
 game.mainloop()
 
-if __name__ == '__main__':  # This is how you usually do it.
+if __name__ == '__main__':  
     choice = input('Please select 1 for game1 and 2 for game2')
     if choice == '1':
         game1()
